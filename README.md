@@ -9,7 +9,9 @@ A responsive and feature-rich LinkedIn clone built with React, Node.js, and Mong
 Features:
 
 User authentication and authorization
+
 Create and update user profiles
+
 Post, like, and comment on feed posts
 Search and connect with other users
 Messaging and chat functionality
